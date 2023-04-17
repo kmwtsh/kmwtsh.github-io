@@ -1,4 +1,5 @@
 ```nano ~/.bashrc ``` 
+
 然后输入
 ```
 #忽略写入历史重复命令  
@@ -9,7 +10,9 @@ export HISTCONTROL=ignoredups
 ```
 
 再打开
+
 ```nano ~/.inputrc ```
+
 然后输入
 
 ```
