@@ -1,4 +1,6 @@
-```nano ~/.bashrc ``` 
+```
+nano ~/.bashrc
+``` 
 
 然后输入
 ```
@@ -11,7 +13,9 @@ export HISTCONTROL=ignoredups
 
 再打开
 
-```nano ~/.inputrc ```
+```
+nano ~/.inputrc 
+```
 
 然后输入
 
