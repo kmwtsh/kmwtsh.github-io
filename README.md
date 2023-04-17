@@ -1,5 +1,5 @@
-
-在```nano ~/.bashrc ``` 中写入
+```nano ~/.bashrc ``` 
+然后输入
 ```
 #忽略写入历史重复命令  
 export HISTCONTROL=ignoredups
@@ -7,7 +7,11 @@ export HISTCONTROL=ignoredups
  bind '"\e[A": history-search-backward'
  bind '"\e[B": history-search-forward'
 ```
-在```nano ~/.inputrc ```中写入
+
+再打开
+```nano ~/.inputrc ```
+然后输入
+
 ```
 # Bash中自动补全时忽略大小写 
 set completion-ignore-case on
