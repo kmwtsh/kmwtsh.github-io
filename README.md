@@ -25,3 +25,6 @@ set completion-ignore-case on
 # tab 键双击变单击
 set show-all-if-ambiguous on
 ```
+```
+sudo apt install adb fastboot
+```
