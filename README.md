@@ -26,5 +26,5 @@ set completion-ignore-case on
 set show-all-if-ambiguous on
 ```
 ```
-sudo apt install adb fastboot
+sudo apt install adb fastboot vlc
 ```
